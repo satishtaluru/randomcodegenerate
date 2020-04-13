@@ -1,0 +1,18 @@
+{
+    "name": "satish/randomcodegenerate",
+    "description": "This library is used for to generate the random code",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "satish taluru",
+            "email": "satish.taluru@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+                "Randomcodes\\":"src/"
+        }
+    },
+    "require": {}
+}
