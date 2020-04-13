@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4":{
-                "Randomcodes\\":"src/"
+                "RandomCodes\\":"src/"
         }
     },
     "require": {}
