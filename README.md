@@ -1,9 +1,9 @@
-# randomcodegenerate
+# Random code Generate
 
 composer require satish/randomcodegenerate
 
-How to use the random code generate
-
+#### How to use the random code generate
+```
 <?php
 require_once './vendor/autoload.php';
 
@@ -15,3 +15,4 @@ echo $objRandomCodes->generateAlphabets($length = 8, $isCapital = true);
 echo $objRandomCodes->generateNumericCode($length = 8, $incZero = true);
 
 echo $objRandomCodes->generateAlphaNumeric($length = 8, $isCapital = true);
+```
