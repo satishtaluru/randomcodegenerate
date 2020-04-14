@@ -2,7 +2,6 @@
 
 composer require satish/randomcodegenerate
 
-
 How to use the random code generate
 
 <?php
